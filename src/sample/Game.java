@@ -11,7 +11,7 @@ public class Game {
     public Game(int dimension) {
         turn = (int)((Math.random() * 2) + 1);          //generate a random turn to start the game
 
-        if(dimension < 3){                              // valedating dimensions
+        if(dimension < 3){                              // validating dimensions
             dimension = 3;
         }
         this.dimension = dimension;
