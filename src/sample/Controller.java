@@ -9,8 +9,6 @@ import javafx.scene.image.Image;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-import java.util.Optional;
-
 
 public class Controller {
 
